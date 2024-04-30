@@ -44,6 +44,9 @@ Implementations are for learning purposes only. As they may be less efficient th
 
 ## Getting Started
 
+![example event parameter]
+[![Pylint](https://github.com/idealvijay/Python/actions/workflows/pylint.yml/badge.svg)](https://github.com/idealvijay/Python/actions/workflows/pylint.yml)
+
 Read through our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 
 ## Community Channels
